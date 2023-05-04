@@ -2,8 +2,8 @@
 
 This project contains actual recipes, so if you are feeling adventurous and/or hungry you can try one of them. :)
 
-The purpose of this project was to practice recently aqcuired HTML information, and the best way to crystalize that information into knowledge to create something. 
+The purpose of this project was to practice recently aqcuired HTML information, and the best way to crystalize that information into knowledge is to create something. This scope of this project is limited to HTML specifically text, list, links, and images.
 
-The project also required git commits a specific times so we can learn how to guage when to commit.
+The project also required that git commits were made a specific times so we can learn how to guage when to commit or what atomic commits are.
 
 Disclaimer: These recipes were copied verbatim from [allrecipes](https://www.allrecipes.com/) and I don't claim them as my own.
